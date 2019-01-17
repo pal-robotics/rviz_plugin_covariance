@@ -2,6 +2,11 @@
 Changelog for package rviz_plugin_covariance
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+Forthcoming
+-----------
+* Clang fixes
+* Contributors: Victor Lopez
+
 0.0.6 (2018-01-09)
 ------------------
 * Merge branch 'qt5-compatibility' into 'cobalt-devel'
