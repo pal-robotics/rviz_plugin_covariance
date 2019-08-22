@@ -13,7 +13,7 @@ find_package(Eigen REQUIRED)
 
 catkin_package()
 
-include_directories(${catkin_INCLUDE_DIRS} ${EIGEN_INCLUDE_DIR})
+include_directories(SYSTEM ${catkin_INCLUDE_DIRS} ${EIGEN_INCLUDE_DIR})
 link_directories(${catkin_LIBRARY_DIRS})
 
 ## This setting causes Qt's "MOC" generation to happen automatically.
