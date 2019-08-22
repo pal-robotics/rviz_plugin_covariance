@@ -2,6 +2,11 @@
 Changelog for package rviz_plugin_covariance
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+Forthcoming
+-----------
+* Add SYSTEM to include_directories
+* Contributors: Victor Lopez
+
 0.0.7 (2019-01-17)
 ------------------
 * Clang fixes
