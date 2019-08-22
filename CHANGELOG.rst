@@ -2,8 +2,8 @@
 Changelog for package rviz_plugin_covariance
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+0.0.8 (2019-08-22)
+------------------
 * Add SYSTEM to include_directories
 * Contributors: Victor Lopez
 
